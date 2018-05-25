@@ -1,5 +1,6 @@
 ### Custom Forum Code Using PHP & MYSQL
-+ Coding....
++ Project Status : Unfinished
++ Process : Coding...
 ### Contact me
 
 ```php
